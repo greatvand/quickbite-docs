@@ -1,1 +1,5 @@
-this is some content
+Writing some content for conflict
+This is line1
+This is line2
+Hello world
+This is line 4
